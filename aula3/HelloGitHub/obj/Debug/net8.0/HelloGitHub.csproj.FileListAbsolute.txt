@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\bin\Debug\net8.0\HelloGitHub.exe
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\bin\Debug\net8.0\HelloGitHub.deps.json
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\bin\Debug\net8.0\HelloGitHub.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\bin\Debug\net8.0\HelloGitHub.dll
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\bin\Debug\net8.0\HelloGitHub.pdb
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\obj\Debug\net8.0\HelloGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\obj\Debug\net8.0\HelloGitHub.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\obj\Debug\net8.0\HelloGitHub.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\obj\Debug\net8.0\HelloGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\obj\Debug\net8.0\HelloGitHub.dll
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\obj\Debug\net8.0\refint\HelloGitHub.dll
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\obj\Debug\net8.0\HelloGitHub.pdb
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\obj\Debug\net8.0\HelloGitHub.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR2026\aula3\HelloGitHub\obj\Debug\net8.0\ref\HelloGitHub.dll
